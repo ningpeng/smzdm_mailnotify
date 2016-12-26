@@ -4,9 +4,10 @@
 
 
 # 运行方式  
-命令行运行，关键字和邮箱都可以以分号间隔:  
+命令行运行，关键字和邮箱都可以以分号间隔:  
+注意 smzdm.py 里面的发送邮件服务器，用户名密码需要使用者自行修改~！   
 
-python   smzdm.py "狗粮" 9945853@qq.com  
+python   smzdm.py "狗粮" 9945853@qq.com  
 
 python3  smzdm.py "u盘;纸尿;巧克力" "9945853@qq.com;nolan.peng@surcdn.com"  
 
